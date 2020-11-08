@@ -1,0 +1,11 @@
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\bin\Debug\netcoreapp3.1\algoTri.exe
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\bin\Debug\netcoreapp3.1\algoTri.deps.json
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\bin\Debug\netcoreapp3.1\algoTri.runtimeconfig.json
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\bin\Debug\netcoreapp3.1\algoTri.runtimeconfig.dev.json
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\bin\Debug\netcoreapp3.1\algoTri.dll
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\bin\Debug\netcoreapp3.1\algoTri.pdb
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\obj\Debug\netcoreapp3.1\algoTri.csprojAssemblyReference.cache
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\obj\Debug\netcoreapp3.1\algoTri.AssemblyInfoInputs.cache
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\obj\Debug\netcoreapp3.1\algoTri.AssemblyInfo.cs
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\obj\Debug\netcoreapp3.1\algoTri.dll
+D:\exerciceSuperProf\testExo\algoC#Tab\algoTri\algoTri\obj\Debug\netcoreapp3.1\algoTri.pdb
